@@ -19,7 +19,7 @@ public class CalculatorTest {
         //Assert.assertEquals(result, 3);
         //Equals to£º
         if(result == 3){
-            System.out.println("add() test passed");
+            System.out.println("add() test passed.");
         }
     }
      
@@ -30,7 +30,7 @@ public class CalculatorTest {
         //Assert.assertEquals(result, 1);
         //Equals to£º
         if(result == 1){
-            System.out.println("sub() test passed");
+            System.out.println("sub() test passed.");
         }
     }
  
